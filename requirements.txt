@@ -1,7 +1,9 @@
 streamlit
 python-dotenv
 youtube-transcript-api==1.2.2
-langchain
+langchain==0.2.10
+langchain-core==0.2.13
+langchain-community==0.2.10
 langchain-text-splitters
 langchain-huggingface
 langchain-chroma
@@ -10,4 +12,5 @@ chromadb
 sentence-transformers
 google-generativeai
 sentence-transformers
+
 requests
