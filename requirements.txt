@@ -2,7 +2,6 @@ streamlit==1.32.0
 python-dotenv
 youtube-transcript-api==1.2.2
 
-# LangChain (compatible versions)
 langchain==0.2.10
 langchain-core==0.2.13
 langchain-community==0.2.10
@@ -11,16 +10,7 @@ langchain-huggingface
 langchain-chroma
 langchain-google-genai
 
-# Vector store
 chromadb==0.4.22
-
-# Embeddings (requires PyTorch)
 sentence-transformers==2.6.0
 
-# PyTorch CPU wheel (required for Streamlit Cloud)
-torch==2.2.0+cpu
---extra-index-url https://download.pytorch.org/whl/cpu
-
-# Other utilities
 requests
-
