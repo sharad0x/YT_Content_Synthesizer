@@ -120,6 +120,7 @@ YT-RAG/
 │── app.py
 │── support_functions.py
 │── requirements.txt
-│── .env.example
+│── .env
 │── README.md
+
 ```
