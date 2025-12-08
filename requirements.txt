@@ -1,0 +1,13 @@
+streamlit
+python-dotenv
+youtube-transcript-api==1.2.2
+langchain
+langchain-text-splitters
+langchain-huggingface
+langchain-chroma
+langchain-google-genai
+chromadb
+sentence-transformers
+google-generativeai
+sentence-transformers
+requests
