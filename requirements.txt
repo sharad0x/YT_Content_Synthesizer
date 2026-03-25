@@ -1,16 +1,19 @@
 streamlit==1.32.0
-python-dotenv
+python-dotenv==1.0.1
 youtube-transcript-api==1.2.2
 
+# Langchain 0.2.x Ecosystem
 langchain==0.2.10
 langchain-core==0.2.13
 langchain-community==0.2.10
-langchain-text-splitters
-langchain-huggingface
-langchain-chroma
-langchain-google-genai
+langchain-text-splitters==0.2.2
+langchain-huggingface==0.0.3
+langchain-chroma==0.1.2
+langchain-google-genai==1.0.8
 
+# Vector Store & Embeddings
 chromadb==0.4.22
 sentence-transformers==2.6.0
 
-requests
+# Utilities
+requests==2.32.3
